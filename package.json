@@ -1,0 +1,25 @@
+{
+  "name": "oildiscovery-nodejs",
+  "version": "1.0.0",
+  "description": "Oildiscovery on Node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liviuschera/oildiscovery-nodejs.git"
+  },
+  "author": "Liviu Schera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liviuschera/oildiscovery-nodejs/issues"
+  },
+  "homepage": "https://github.com/liviuschera/oildiscovery-nodejs#readme",
+  "devDependencies": {
+    "nodemon": "^1.19.0"
+  },
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
